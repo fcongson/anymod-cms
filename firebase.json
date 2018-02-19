@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "templated-hielo",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
