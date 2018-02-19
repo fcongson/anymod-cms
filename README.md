@@ -13,3 +13,7 @@ Anymod CMS
 Hielo by Templated
 
 ```https://templated.co/hielo```
+
+AWS Hosting
+
+```http://anymod-cms-hielo-project.s3-website-us-west-2.amazonaws.com```
