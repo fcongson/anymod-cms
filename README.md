@@ -23,5 +23,11 @@ https://templated.co/hielo
 AWS Hosting
 
 ```
+https://aws.amazon.com/getting-started/projects/host-static-website/
+```
+
+AWS Deployment
+
+```
 http://anymod-cms-hielo-project.s3-website-us-west-2.amazonaws.com
 ```
